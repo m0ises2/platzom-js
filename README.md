@@ -14,14 +14,24 @@ npm install platzom-m0ises2
 ```
 
 ## Uso
+
+#### ES5
+```
+const platzom = require('platzom-m0ises2').default
+```
+
+#### ES6
 ```
 import platzom from 'platzom-m0ises2'
+```
+#### Invocar 'default function'
 
-platzom("Programar") // Program
-platzom("Zorro") // Zorrope
-platzom("Zarpar") // Zarppe
-platzom("abecedario") // abece-dario
-platzom("sometemos") // SoMeTeMoS
+```
+platzom("Programar") // cadena de texto retornada "Program"
+platzom("Zorro") // cadena de texto retornada "Zorrope"
+platzom("Zarpar") // cadena de texto retornada "Zarppe"
+platzom("abecedario") // cadena de texto retornada "abece-dario"
+platzom("sometemos") // cadena de texto retornada "SoMeTeMoS"
 ```
 
 ## Créditos
