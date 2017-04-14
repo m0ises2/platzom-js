@@ -10,12 +10,12 @@ Platzom es un idioma creado en el curso de [Fundamentos de JavaScript](https://p
 
 ## Instalación
 ```
-npm install platzom-js
+npm install platzom-m0ises2
 ```
 
 ## Uso
 ```
-import platzom from 'platzom-js'
+import platzom from 'platzom-m0ises2'
 
 platzom("Programar") // Program
 platzom("Zorro") // Zorrope
